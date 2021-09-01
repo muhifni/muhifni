@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 [![Mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:muhammad.gcs@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/muhammad-hifni-485a74164/)
 
+### My Projects:
+[![Covid-19 Dashboard](https://img.shields.io/badge/%F0%9F%A6%A0%20COVID%E2%80%9119%20Dashboard-000?style=for-the-badge&)](#)
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/muhifni">
