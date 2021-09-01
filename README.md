@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
+- 📫 How to reach me: [muhammad.gcs@gmail.com](mailto:muhammad.gcs@gmail.com)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning full-stack web devloping
-- 📫 How to reach me: [muhammad.gcs@gmail.com](mailto:muhammad.gcs@gmail.com)
+- 🌱 I’m currently learning about full-stack web-dev and cloud computing
+- 👯 I’m looking to collaborate on web-dev
+
+
+### Connect with me:
+[![Mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:muhammad.gcs@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/muhammad-hifni-485a74164/)
 
 ### Github Statistic
 <p align="left">
