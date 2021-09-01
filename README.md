@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning full-stack web devloping
-- 📫 How to reach me: (muhammad.gcs@gmail.com)[mailto:muhammad.gcs@gmail.com]
+- 📫 How to reach me: (muhammad.gcs@gmail.com)[muhammad.gcs@gmail.com]
 
 ### Github Statistic
 <p align="left">
