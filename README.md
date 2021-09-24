@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/muhammad-hifni-485a74164/)
 
 ### My Projects:
-[![Covid-19 Dashboard](https://img.shields.io/badge/%F0%9F%A6%A0%20COVID%E2%80%9119%20Dashboard-000?style=for-the-badge&)](#)
+[![Covid-19 Dashboard](https://img.shields.io/badge/%F0%9F%A6%A0%20COVID%E2%80%9119%20Dashboard-000?style=for-the-badge&)](https://muhifni.github.io/covid-19/)
 
 ### Github Statistic
 <p align="left">
